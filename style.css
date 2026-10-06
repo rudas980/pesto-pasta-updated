@@ -1,0 +1,81 @@
+body {
+  background-color: white;
+
+}
+@media (max-width:600px){
+    body {
+        background-color: rgb(251, 170, 239);
+    }
+}
+h1 { 
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(78, 218, 78);
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+.intro {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: black;
+  margin-top: 0px;
+}
+h2 {
+ font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(78, 218, 78);
+  font-size: 45px;
+  margin-top: 0px;
+}
+#about .section-title {
+ font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(78, 218, 78);
+  font-size: 45px;
+}
+.photo img{
+  border: none;
+  box-shadow: 0 0 30px 10px lightgreen;
+}
+#about p {
+   font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: black;
+  margin-top: 20px;
+}
+h3 {
+font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(78, 218, 78);
+  font-size: 45px;
+}
+.ingredient {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: black;
+}
+.subhead {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  color: black;
+}
+.steps {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: black;
+}
+.note {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: black;
+}
